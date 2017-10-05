@@ -1,1 +1,1 @@
-# cs340
+calculating the log based 2 
